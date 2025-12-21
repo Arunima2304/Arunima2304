@@ -28,8 +28,9 @@ I'm 👩‍💻 **Arunima Chakraborty**
 
 **Libraries / Tools:**  
 <p float="left">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" style="margin-right:10px;"/>
    <img src="https://raw.githubusercontent.com/github/explore/main/topics/socket-io/socket-io.png" height="40" style="margin-right:10px;"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" height="40" style="margin-right:10px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin-right:10px;"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/fluency/48/000000/vite.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" style="margin-right:10px;"/>
