@@ -30,7 +30,9 @@ I'm 👩‍💻 **Arunima Chakraborty**
 <p float="left">
   <img src="https://img.icons8.com/ios-filled/50/000000/json-web-token.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/socket-io.png" height="40" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" style="margin-right:10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/fluency/48/000000/vite.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40" style="margin-right:10px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="40" style="margin-right:10px;"/>
 </p>
+
