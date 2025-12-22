@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> Hello everyone!  
-I'm **Arunima Chakraborty**  
+I'm **Arunima**  
 **👩‍💻Full Stack Developer | MERN Stack**
 
 🌐 Building scalable and user-centric web applications with MERN stack.  
