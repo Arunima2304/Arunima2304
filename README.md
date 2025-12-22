@@ -37,5 +37,3 @@ I'm **Arunima**
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunima2304&layout=compact&theme=react)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arunima2304&theme=github_dark)
-
