@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
-  Hello everyone, I'm Arunima 
+  Hello everyone, I'm Arunima 👩‍💻
 </h1>
 
-<h3 align="center">👩‍💻Full Stack Developer | MERN Stack</h3>
+
  
 🌐 Building scalable and user-centric web applications with MERN stack.  
 ✨ Passionate about problem-solving, clean code, and creating impactful projects.  
