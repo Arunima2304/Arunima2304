@@ -34,3 +34,10 @@ I'm **Arunima**
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" height="40" style="margin-right:10px;"/>
   <img src="https://img.icons8.com/fluency/48/000000/vite.png" height="40" style="margin-right:10px;"/>
   </p>
+
+
+📊 **GitHub Stats**
+
+![Arunima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunimachakraborty23&show_icons=true&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunimachakraborty23&layout=compact&theme=react)
