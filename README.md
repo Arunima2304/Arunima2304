@@ -2,7 +2,7 @@
 I'm **Arunima Chakraborty**  
 **👩‍💻Full Stack Developer | MERN Stack**
 
-🌐 Building scalable and user-centric web applications with MERN stack and Tailwind CSS.  
+🌐 Building scalable and user-centric web applications with MERN stack.  
 ✨ Passionate about problem-solving, clean code, and creating impactful projects.  
 
 📫 **Connect with me:**  
