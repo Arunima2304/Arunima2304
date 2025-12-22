@@ -38,6 +38,4 @@ I'm **Arunima**
 
 📊 **GitHub Stats**
 
-![Arunima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunimachakraborty23&show_icons=true&theme=react)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunimachakraborty23&layout=compact&theme=react)
